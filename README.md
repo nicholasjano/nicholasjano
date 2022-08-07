@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nicholas Jano
 - 🌱 I’m currently studying Computing at Queen's University
 - 👥 I’m looking to collaborate on anything that reaches my interest
-- 📫 You can reach me at: [LinkedIn Page](https://linkedin.com/in/nicholasjano/)
+- 📫 You can reach me at: [LinkedIn](https://linkedin.com/in/nicholasjano/)
