@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Nicholas Jano
-- 🌱 I’m currently studying Computer Science at Queen's University
-- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/nicholasjano/)
+- Nicholas Jano
+- Software Engineer at Marmon Rail
+- Computer Science at Queen's University
+- You can reach me on [LinkedIn](https://linkedin.com/in/nicholasjano/)
