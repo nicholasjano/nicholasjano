@@ -1,3 +1,2 @@
-- Software Engineer at Marmon Rail
-- Computer Science at Queen's University
+- Software Engineer at TD Securities
 - You can reach me on [LinkedIn](https://linkedin.com/in/nicholasjano/)
